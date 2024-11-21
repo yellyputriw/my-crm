@@ -1,36 +1,52 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+<h3 align="center">My CRM</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/version-1.0.0-blue" alt="version 1.0.0"/>
+  <img src="https://img.shields.io/badge/author-Yelly%20Purei-red" alt="author Yelly Putri"/>
+</p>
 
-## Getting Started
+### Requirements
 
-First, run the development server:
+- Linux
+- Node.js (v16 or higher)
+- Npm
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+### Getting Started
+
+- Clone this repository
+
+```sh
+  git clone git@github.com:yellyputriw/my-crm.git
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- Install dependencies
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```sh
+  npm i
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- Run the development server
 
-## Learn More
+```sh
+  npm run dev
+```
 
-To learn more about Next.js, take a look at the following resources:
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+<img src="https://skillicons.dev/icons?i=,react" alt="skills actively learning logos">
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+[Staging URL](https://my-crm-bice.vercel.app//)
 
-## Deploy on Vercel
+### How to access page
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- Dashboard
+  [https://my-crm-bice.vercel.app/](https://my-crm-bice.vercel.app/)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- Edit Application (Bank)
+  [https://my-crm-bice.vercel.app/edit-application/produk-dan-bank](https://my-crm-bice.vercel.app/edit-application/produk-dan-bank)
+
+- Edit Application (Alamat)
+  [https://my-crm-bice.vercel.app/edit-application/alamat](https://my-crm-bice.vercel.app/edit-application/alamat)
+
+---
+
+Copyright &copy; 2024 Yelly Putri.
